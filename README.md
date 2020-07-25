@@ -106,7 +106,9 @@ comprehensive set of strategies support authentication using a username and pass
 * [dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a . env file into process.
 * [cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 * [express-session](https://www.npmjs.com/package/express-session) - A session management library to makes storing session details simple.
-* [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
+* [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications.
+* [bcrypt](https://www.npmjs.com/package/bcryptjs) - bcrypt is a password-hashing function.
+* [md5](https://www.npmjs.com/package/md5) - A simple `MD5()` hash function for JavaScript supports UTF-8 encoding.
 
 ## Upload Files
 
