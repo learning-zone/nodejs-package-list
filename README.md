@@ -32,7 +32,12 @@
 
 ## Machine Learning Framework
 
+* [ml.js](https://ml5js.org/) - ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students.
+* [Brain.js](https://brain.js.org/#/) - GPU accelerated Neural Networks in JavaScript, for Browsers and Node.js.
+* [Synaptic](https://synaptic.com/) - Synaptic is an alternative data platform that helps financial firms and investors get actionable insights from vast amounts of data.
+* [stdlib](https://stdlib.io/) - stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing.
 * [TensorFlow JS](https://www.tensorflow.org/js) - a JavaScript library for training and deploying models in the browser and on Node.js.
+* [KerasJS](https://transcranial.github.io/keras-js/#/) - Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
 
 ## Database
 
