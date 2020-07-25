@@ -42,10 +42,9 @@
 ## Database
 
 * [Mongoose](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
-* [Mongoose Paginate v2](https://www.npmjs.com/package/mongoose-paginate-v2) - A customizable cursor based pagination plugin for Mongoose.
 * [MySQL](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
 * [Sequelize](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
-* [Knex.js](https://knexjs.org/) Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.
+* [Knex.js](https://knexjs.org/) - Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.
 
 ## Development
 
@@ -142,7 +141,7 @@ comprehensive set of strategies support authentication using a username and pass
 
 * [CRON](https://www.npmjs.com/package/cron) - Cron is a tool that allows you to execute something on a schedule.
 * [Agenda](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
-* [Node Schedule](https://www.npmjs.com/package/node-schedule) - A flexible job scheduler for Node.js that can perform different types of scheduling: Cron-style, Data-based and Recurrence Rule. 
+* [Node Schedule](https://www.npmjs.com/package/node-schedule) - A flexible job scheduler for Node.js that can perform different types of scheduling: Cron-style, Data-based and Recurrence Rule.
 
 ## Robotic Process Automation & Desktop Automation
 
@@ -187,6 +186,11 @@ comprehensive set of strategies support authentication using a username and pass
 * [Plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
 * [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
 * [JSHint](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
+
+## CSS Framework
+
+* [Sass](https://sass-lang.com/documentation) - It allows to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax.
+* [Less.js](http://lesscss.org/) - Less is a dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets and run on the client side or server side.
 
 ## Documentation
 
