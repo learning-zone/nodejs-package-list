@@ -178,10 +178,6 @@ comprehensive set of strategies support authentication using a username and pass
 * [`cucumber Gherkin`](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
 * [`React Testing Library`](https://testing-library.com/docs/react-testing-library/intro) - The React Testing Library is a very light-weight solution for testing React components. The more your tests resemble the way your software is used, the more confidence they can give you.
 
-## Packages for Management & Operations
-
-List of packages needed for management and operations.
-
 ## Loggers/Logging
 
 * [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
