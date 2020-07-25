@@ -98,11 +98,15 @@
 * [EJS](https://github.com/mde/ejs) - Embedded JavaScript templates
 * [hbs](https://github.com/pillarjs/hbs) - Express.js template engine plugin for Handlebars
 
-## Authentication
+## Authentication & Security
 
 * [PassportJS](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
 comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
-* [JSON Web Token](https://www.npmjs.com/package/jsonwebtoken) - Implementation of JSON Web Tokens
+* [JWT](https://www.npmjs.com/package/jsonwebtoken) - Implementation of JSON Web Tokens
+* [dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a . env file into process.
+* [cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+* [express-session](https://www.npmjs.com/package/express-session) - A session management library to makes storing session details simple.
+* [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 
 ## Upload Files
 
