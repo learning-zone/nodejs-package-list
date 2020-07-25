@@ -1,19 +1,23 @@
 # Node Package List
 
+## Web Framework
+
+* [Express](http://expressjs.com/) - It is designed for building web applications and APIs.
+* [Meteor](https://www.meteor.com/) - Meteor allows for rapid prototyping and produces cross-platform code.
+* [Sails.js](https://sailsjs.com/) - It is designed to make it easy to build custom, enterprise-grade Node.js web applications and APIs.
+* [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+* [Koa](http://koajs.com/) - A Koa application is an object containing an array of middleware functions which are composed and executed in a stack-like manner upon request.
+* [NestJS](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
+* [Derby.js](https://derbyjs.com/) - DerbyJS is a full-stack framework for writing modern web applications.
+* [Total.js](https://www.totaljs.com/) - Total.js framework is a framework for Node.js platfrom written in pure JavaScript similar to PHP\'s Laravel or Python\'s Django or ASP.NET MVC.
+* [Adonis](https://adonisjs.com/) - AdonisJs is a Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it.
+
 ## API Framework
 
 * [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 * [Restify](http://restify.com/) - A Node.js web service framework optimized for building semantically correct RESTful web services ready for production use at scale.
 * [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 * [Loopback](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
-
-## Web Framework
-
-* [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
-* [Sails.js](https://sailsjs.com/) - Sails is the most popular MVC framework for Node.js.
-* [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
-* [Koa](http://koajs.com/) - Next generation web framework for Node.js
-* [NestJS](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
 
 ## Microservice Framework
 
@@ -131,11 +135,12 @@ comprehensive set of strategies support authentication using a username and pass
 
 ## Robotic Process Automation & Desktop Automation
 
-* [ROBOTJS](https://www.npmjs.com/package/robotjs)Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
-* [Puppeteer](https://www.npmjs.com/package/puppeteer)Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
+* [ROBOTJS](https://www.npmjs.com/package/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
+* [Puppeteer](https://www.npmjs.com/package/puppeteer) - Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
 
 ## Automation
 
+* [Webpack](https://webpack.js.org/) - Webpack is an open-source JavaScript module bundler.
 * [Grunt](https://www.npmjs.com/package/grunt) - Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.
 * [Gulp](https://www.npmjs.com/package/gulp) - Gulp is a task runner used for automation of time-consuming and repetitive tasks involved in web development like minification, concatenation, cache busting, unit testing, linting, optimization, etc.
 
@@ -144,6 +149,44 @@ comprehensive set of strategies support authentication using a username and pass
 * [Commander](https://www.npmjs.com/package/commander) - The complete solution for node.js command-line interfaces, inspired by Ruby's commander.
 * [Colors](https://www.npmjs.com/package/colors) - Easily add ANSI colors to your text and symbols in the terminal.
 * [Chalk](https://github.com/chalk/chalk-cli) - Terminal string styling done right.
+
+## Testing Tools
+
+* [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+* [Enzyme](https://airbnb.io/enzyme/) - Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components output. You can also manipulate, traverse, and in some ways simulate runtime given the output
+* [Mocha](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
+* [Chai](https://www.chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+* [Jasmine](https://jasmine.github.io/) - Jasmine is an open-source testing framework for JavaScript.
+* [cucumber Gherkin](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
+
+## Loggers/Logging
+
+* [Winston](https://www.npmjs.com/package/winston) - A logger for just about everything.
+* [Morgan](https://www.npmjs.com/package/morgan) - HTTP request logger middleware for node.js
+
+## Monitoring
+
+* [PM2](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
+* [Forever](https://www.npmjs.com/package/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+* [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+* [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+
+## Code Quality Analysis
+
+* [Plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
+* [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
+* [JSHint](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
+
+## Documentation
+
+* [JSDoc](https://jsdoc.app/) - JSDoc is a markup language used to annotate JavaScript source code files.
+* [ESDoc](https://esdoc.org/) - JavaScript documentation generator
+* [docsify](https://docsify.js.org/#/) - It generates your documentation website on the fly. Unlike GitBook, it does not generate static html files.
+* [documentation](https://documentation.js.org/) - Documentation for modern JavaScript.
+
+## Boost Productivity
+
+* [ProjectMan](https://github.com/saurabhdaware/projectman) - A Project Manager to add projects to favorites and open them from your command-line.
 
 ## Game
 
@@ -168,39 +211,3 @@ comprehensive set of strategies support authentication using a username and pass
 * [Tweetwork](https://twitter.com/MaximeEuziere/status/883044404453294080) - a 140b canvas game framework
 * [Kontra](https://straker.github.io/kontra/) - a lightweight JavaScript gaming micro-library, optimized for js13kGames
 * [JS13K 2017 Kit](https://github.com/Rybar/js13k2017kit) - a pico-8 like graphics engine and game boilerplate
-
-## Testing
-
-* [Mocha](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
-* [Chai](https://www.chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
-* [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity..
-* [Enzyme](https://airbnb.io/enzyme/) - Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output
-* [cucumber Gherkin](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
-* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) - The React Testing Library is a very light-weight solution for testing React components. The more your tests resemble the way your software is used, the more confidence they can give you.
-
-## Loggers/Logging
-
-* [Winston](https://www.npmjs.com/package/winston) - A logger for just about everything.
-* [Morgan](https://www.npmjs.com/package/morgan) - HTTP request logger middleware for node.js
-
-## Monitoring
-
-* [PM2](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
-* [Forever](https://www.npmjs.com/package/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
-* [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-* [Trace](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
-
-## Code Quality Analysis
-
-* [Plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
-* [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
-* [JSHint](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
-
-## Documentation
-
-* [jsdoc](https://jsdoc.app/) - JavaScript Documentation
-* [esdoc](https://esdoc.org/) - JavaScript Documentation
-
-## Boost Productivity
-
-* [ProjectMan](https://github.com/saurabhdaware/projectman) - A Project Manager to add projects to favorites and open them from your command-line.
