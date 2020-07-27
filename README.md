@@ -108,6 +108,7 @@ comprehensive set of strategies support authentication using a username and pass
 * [Auth0](https://auth0.com/) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications.
 * [bcrypt](https://www.npmjs.com/package/bcryptjs) - bcrypt is a password-hashing function.
 * [md5](https://www.npmjs.com/package/md5) - A simple `MD5()` hash function for JavaScript supports UTF-8 encoding.
+* [Helmet](https://helmetjs.github.io/) - Helmet helps you secure your Express apps by setting various HTTP headers.
 
 ## Upload Files
 
