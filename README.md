@@ -1,5 +1,7 @@
 # Node Package List
 
+> *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
+
 <br/>
 
 ## Web Framework
