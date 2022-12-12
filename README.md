@@ -172,7 +172,7 @@ comprehensive set of strategies support authentication using a username and pass
 * [Mocha](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
 * [Chai](https://www.chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 * [Jasmine](https://jasmine.github.io/) - Jasmine is an open-source testing framework for JavaScript.
-* [cucumber Gherkin](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
+* [Cucumber Gherkin](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
 
 ## Loggers/Logging
 
